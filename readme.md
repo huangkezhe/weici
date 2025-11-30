@@ -1,6 +1,8 @@
 # 高中英语维克多词汇电子版
 
-蓝奏云：https://zhiyuyu.lanzout.com/b098xjaid 密码:6mnk
+你可以通过下载下来之后，通过index.html查询。
+
+蓝奏云：https://zhiyuyu.lanzout.com/b098xjaid 密码:6mnk（已失效）
 
 维词（20220402）.zip 为最新版导出
 
